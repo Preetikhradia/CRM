@@ -1,0 +1,87 @@
+# ===============================
+
+# Spring Boot / Java / Maven
+
+# ===============================
+
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+
+.mvn/wrapper/maven-wrapper.jar
+
+# ===============================
+
+# Environment & Secrets
+
+# ===============================
+
+.env
+.env.*
+application-local.properties
+application-dev.properties
+
+# ===============================
+
+# IDE Files
+
+# ===============================
+
+## IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+## Eclipse / STS
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+## NetBeans
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+## VS Code
+
+.vscode/
+
+# ===============================
+
+# OS Files
+
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+
+# Misc
+
+# ===============================
+
+*.swp
+*.swo
+*~
