@@ -127,25 +127,15 @@ A robust **Customer Relationship Management (CRM) Backend System** built using *
 
 ---
 
-## 🗄️ Database Schema (MySQL)
+## 🗄️ Database Schema 
 
-### Tables
+### STORES INFORMATION 
 
 - users  
 - customers  
 - leads  
 - tasks  
 - sales  
-
-### Relationships
-
-- A **User (Sales Rep)** can be assigned to:
-  - Customers  
-  - Leads  
-  - Tasks  
-  - Sales  
-
-- Each **Sale** is linked to a **Customer**  
 
 ---
 
