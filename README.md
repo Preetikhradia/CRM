@@ -10,7 +10,7 @@ A robust **Customer Relationship Management (CRM) Backend System** built using *
 - Spring Boot  
 - Spring Security  
 - JWT Authentication  
-- MySQL  
+- MongoDB  
 - Maven  
 
 ---
